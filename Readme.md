@@ -6,6 +6,7 @@ https://buildship.app/remix/64100406-8f63-47f5-b6ff-d06ffb290d13
 ![image](https://github.com/user-attachments/assets/f661cc54-6bb8-4120-9cf3-08749b7cbe91)
 
 # Часть 2
+https://buildship.app/remix/612fc71e-a508-4127-9f19-460a79348511
 ![image](https://github.com/user-attachments/assets/75e4641c-b01a-4d5f-af7f-9c8e3cf2d3a7)
 
  # Часть 3
