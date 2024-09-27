@@ -1,3 +1,14 @@
+# Часть 0
+https://supabase.com/dashboard/project/yfejhssvkdzjihkizhhi
+
+# Часть 1
+https://buildship.app/remix/64100406-8f63-47f5-b6ff-d06ffb290d13
+![image](https://github.com/user-attachments/assets/f661cc54-6bb8-4120-9cf3-08749b7cbe91)
+
+# Часть 2
+![image](https://github.com/user-attachments/assets/75e4641c-b01a-4d5f-af7f-9c8e3cf2d3a7)
+
+ # Часть 3
 Запрос 1. Получить список юзернеймов пользователей
  SELECT username FROM users
 
